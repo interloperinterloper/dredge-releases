@@ -1,0 +1,6 @@
+{
+  "name": "dredge",
+  "compatibility_date": "2026-11-01",
+  "assets": { "directory": "./site" },
+  "routes": [{ "pattern": "dredge.interloper.tools", "custom_domain": true }]
+}
